@@ -19,5 +19,6 @@ public class ex07 {
         else {
             System.out.println("Os números são iguais!");
         }
+        sc.close();
     }
 }

@@ -13,5 +13,7 @@ public class ex06 {
             resultado = numero * i;
             System.out.println(i + " * " + numero + " = " + resultado);
         }
+
+        sc.close();
     }
 }
