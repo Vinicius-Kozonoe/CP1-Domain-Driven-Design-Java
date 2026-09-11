@@ -38,7 +38,7 @@ public class ex10 {
                 System.out.println();
                 System.out.println("A FORMA DE PAGAMENTO ESCOLHIDA FOI: PARCELADO EM 4X (juros de 8%)");
                 System.out.println("O valor final do produto ficou de R$" + precoJuros);
-                System.out.println("Que será efetuado em duas parcelas de R$" + (precoJuros / 4) + " cada");
+                System.out.println("Que será efetuado em quatro parcelas de R$" + (precoJuros / 4) + " cada");
                 break;
             default:
                 System.out.println();
